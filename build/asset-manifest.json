@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio.git/static/css/main.56cd4a8a.css",
+    "main.js": "/Portfolio.git/static/js/main.f6ce8e3b.js",
+    "static/media/CV.pdf": "/Portfolio.git/static/media/CV.d6db7640e9dfda87ea9b.pdf",
+    "static/media/StudentManagementSystem.pdf": "/Portfolio.git/static/media/StudentManagementSystem.edbefc49a5ddd17dc7bd.pdf",
+    "static/media/Public-Library-Data-and-Information-Management-System.pdf": "/Portfolio.git/static/media/Public-Library-Data-and-Information-Management-System.af812bb0fb5345931008.pdf",
+    "static/media/student.png": "/Portfolio.git/static/media/student.791aff5f71369b661051.png",
+    "static/media/E-Wallet.pdf": "/Portfolio.git/static/media/E-Wallet.a9fb7a57bef7aa6b11c4.pdf",
+    "static/media/wallet.png": "/Portfolio.git/static/media/wallet.397eebcda9f7dabb782e.png",
+    "static/media/me-img.png": "/Portfolio.git/static/media/me-img.33d21de53c7b7f2bc1d8.png",
+    "static/media/my-img.png": "/Portfolio.git/static/media/my-img.a45872844a4f117fe7d5.png",
+    "static/media/amber.png": "/Portfolio.git/static/media/amber.bfc323b359925a0296e3.png",
+    "static/media/library.jpg": "/Portfolio.git/static/media/library.e3fa5e25aa7f31fd8b3a.jpg",
+    "index.html": "/Portfolio.git/index.html",
+    "main.56cd4a8a.css.map": "/Portfolio.git/static/css/main.56cd4a8a.css.map",
+    "main.f6ce8e3b.js.map": "/Portfolio.git/static/js/main.f6ce8e3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56cd4a8a.css",
+    "static/js/main.f6ce8e3b.js"
+  ]
+}
