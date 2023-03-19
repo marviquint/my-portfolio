@@ -40,9 +40,13 @@ header{
 }
 
 .me{
-    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
     width: 22rem;
-    height: 20rem;
+    height: 25rem;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
+    transform: rotate(0deg);
+    transition: var(--transition);
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;

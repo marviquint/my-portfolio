@@ -33,7 +33,7 @@ const About = () => {
             </div>
             <p>
               Hello,
-              I am a Senior student from Cebu Technological University - Main Campus, currently taking the degree Bachelor of Science in Information Technology with 3+ years experience in various Information Technology subjects such as Computer Programming, System Integration Architecture, Information Management, Database Management System and a lot more. I welcome you all to my Portfolio website.
+              I am a Senior student from Cebu Technological University - Main Campus, currently taking the degree Bachelor of Science in Information Technology with 3+ years experience in various Information Technology subjects such as Computer Programming, System Integration Architecture, Information Management, Database Management System and a lot more. And currently, I am an Intern at Innodata Knowlege & Services Inc., I welcome all of you to my Portfolio website.
             </p>
 
             <a href="#contact" className="btn">Let's Communicate</a>

@@ -35,12 +35,13 @@ footer a {
 }
 
 .footer__socials a{
-    background: var(--color-bg);
+    background: var(--color-primary-variant);
     color: var(--color-white);
     padding: .8rem;
     border-radius: .7rem;
     display: flex;
     border: 1px solid transparent;
+    
 }
 
 .footer__socials a:hover{
