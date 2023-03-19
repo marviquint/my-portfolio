@@ -56,7 +56,7 @@ const Portfolio = () => {
             <h3>AMBER: Faculty Evaluation System</h3>
             <h5>Capstone Project and Research Technopreneurship</h5>
            <div className="portfolio__item-cta">
-            <a href="https://github.com/KinnGold/AMBER-Faculty-Evaluation-System" className="btn"><GoLinkExternal/> Github</a>
+            <a href="https://github.com/marviquint/AMBER-Faculty-Evaluation-System" className="btn"><GoLinkExternal/> Github</a>
            </div>
         </article>
         <article className="portfolio__item">
@@ -66,7 +66,7 @@ const Portfolio = () => {
             <h3>InstaMag: Photo Magazine Social Media Site</h3>
             <h5>MERN Stack Project</h5>
            <div className="portfolio__item-cta">
-            <a href="https://github.com/KinnGold/social-media-instamag" className="btn"><GoLinkExternal/> Github</a>
+            <a href="https://github.com/marviquint/social-media-instamag" className="btn"><GoLinkExternal/> Github</a>
            </div>
         </article>
         <article className="portfolio__item">
@@ -76,7 +76,7 @@ const Portfolio = () => {
             <h3>NexusGPT: ChatGPT x Dall-E Crossover</h3>
             <h5>ExpressJS, ReactJS, and NodeJS OpenAI API Project</h5>
            <div className="portfolio__item-cta">
-            <a href="https://github.com/KinnGold/nexusgpt" className="btn"><GoLinkExternal/> Github</a>
+            <a href="https://github.com/marviquint/nexusgpt" className="btn"><GoLinkExternal/> Github</a>
            </div>
         </article>
       </div>

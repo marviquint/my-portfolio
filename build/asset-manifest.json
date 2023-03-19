@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-marviquint/static/css/main.77a08da0.css",
-    "main.js": "/portfolio-marviquint/static/js/main.f1de2c2f.js",
-    "static/media/CV.pdf": "/portfolio-marviquint/static/media/CV.d6db7640e9dfda87ea9b.pdf",
-    "static/media/StudentManagementSystem.pdf": "/portfolio-marviquint/static/media/StudentManagementSystem.edbefc49a5ddd17dc7bd.pdf",
-    "static/media/Public-Library-Data-and-Information-Management-System.pdf": "/portfolio-marviquint/static/media/Public-Library-Data-and-Information-Management-System.af812bb0fb5345931008.pdf",
-    "static/media/student.png": "/portfolio-marviquint/static/media/student.791aff5f71369b661051.png",
-    "static/media/E-Wallet.pdf": "/portfolio-marviquint/static/media/E-Wallet.a9fb7a57bef7aa6b11c4.pdf",
-    "static/media/wallet.png": "/portfolio-marviquint/static/media/wallet.397eebcda9f7dabb782e.png",
-    "static/media/instamag.png": "/portfolio-marviquint/static/media/instamag.8dce2d36a04b6404821f.png",
-    "static/media/me-img.png": "/portfolio-marviquint/static/media/me-img.33d21de53c7b7f2bc1d8.png",
-    "static/media/my-img.png": "/portfolio-marviquint/static/media/my-img.a45872844a4f117fe7d5.png",
-    "static/media/amber.png": "/portfolio-marviquint/static/media/amber.bfc323b359925a0296e3.png",
-    "static/media/library.jpg": "/portfolio-marviquint/static/media/library.e3fa5e25aa7f31fd8b3a.jpg",
-    "static/media/nexusgpt.png": "/portfolio-marviquint/static/media/nexusgpt.8fb4c5ef6f0006ad8d09.png",
-    "index.html": "/portfolio-marviquint/index.html",
-    "main.77a08da0.css.map": "/portfolio-marviquint/static/css/main.77a08da0.css.map",
-    "main.f1de2c2f.js.map": "/portfolio-marviquint/static/js/main.f1de2c2f.js.map"
+    "main.css": "/marviquint-portfolio/static/css/main.77a08da0.css",
+    "main.js": "/marviquint-portfolio/static/js/main.fc6ce83f.js",
+    "static/media/CV.pdf": "/marviquint-portfolio/static/media/CV.d6db7640e9dfda87ea9b.pdf",
+    "static/media/StudentManagementSystem.pdf": "/marviquint-portfolio/static/media/StudentManagementSystem.edbefc49a5ddd17dc7bd.pdf",
+    "static/media/Public-Library-Data-and-Information-Management-System.pdf": "/marviquint-portfolio/static/media/Public-Library-Data-and-Information-Management-System.af812bb0fb5345931008.pdf",
+    "static/media/student.png": "/marviquint-portfolio/static/media/student.791aff5f71369b661051.png",
+    "static/media/E-Wallet.pdf": "/marviquint-portfolio/static/media/E-Wallet.a9fb7a57bef7aa6b11c4.pdf",
+    "static/media/wallet.png": "/marviquint-portfolio/static/media/wallet.397eebcda9f7dabb782e.png",
+    "static/media/instamag.png": "/marviquint-portfolio/static/media/instamag.8dce2d36a04b6404821f.png",
+    "static/media/me-img.png": "/marviquint-portfolio/static/media/me-img.33d21de53c7b7f2bc1d8.png",
+    "static/media/my-img.png": "/marviquint-portfolio/static/media/my-img.a45872844a4f117fe7d5.png",
+    "static/media/amber.png": "/marviquint-portfolio/static/media/amber.bfc323b359925a0296e3.png",
+    "static/media/library.jpg": "/marviquint-portfolio/static/media/library.e3fa5e25aa7f31fd8b3a.jpg",
+    "static/media/nexusgpt.png": "/marviquint-portfolio/static/media/nexusgpt.8fb4c5ef6f0006ad8d09.png",
+    "index.html": "/marviquint-portfolio/index.html",
+    "main.77a08da0.css.map": "/marviquint-portfolio/static/css/main.77a08da0.css.map",
+    "main.fc6ce83f.js.map": "/marviquint-portfolio/static/js/main.fc6ce83f.js.map"
   },
   "entrypoints": [
     "static/css/main.77a08da0.css",
-    "static/js/main.f1de2c2f.js"
+    "static/js/main.fc6ce83f.js"
   ]
 }
