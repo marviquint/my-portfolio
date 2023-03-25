@@ -28,7 +28,7 @@
 
 .about__card{
     background: var(--color-primary-variant);
-    border: 1px solid transparent;
+    border: 2px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
@@ -36,28 +36,28 @@
 
 .about__card:hover{
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-primary);
 }
 
 .about__icon{
-    color: var(--color-bg-variant);
+    color: var(--color-white);
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
-.about__card h5{
-    font-size: 0.95rem;
+.about__card h3{
+    font-size: 1rem;
 }
 
-.about__card small{
-    font-size: 0.7rem;
-    color: var(--color-light);
+.about__card h5{
+    font-size: 0.85rem;
 }
 
 .about__content p{
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-white);
     text-align: justify;
+    font-weight: bold;
 }
 
 /*Media Queries (Medium Devices)*/

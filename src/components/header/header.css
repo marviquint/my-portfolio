@@ -10,15 +10,6 @@ header{
     position: relative;
 }
 
-/*CTA*/
-
-.cta{
-    margin-top: 2.5rem;
-    display: flex;
-    gap: 1.2rem;
-    justify-content: center;
-}
-
 
 /*SOCIAL MEDIA*/
 
@@ -29,14 +20,15 @@ header{
     gap:0.8rem;
     position: absolute;
     left: 0;
-    bottom: 23rem;
+    bottom: 20rem;
+    font-size: xx-large;
 }
 
 .header__socials::after{
     content: '';
     width: .3rem;
     height: 2rem;
-    background: var(--color-primary);
+    background: var(--color-white);
 }
 
 .me{
@@ -59,7 +51,7 @@ header{
     bottom: 25rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: xx-large;
 }
 
 @media screen and (max-width: 1440px){
@@ -92,7 +84,7 @@ header{
         bottom: 10rem;
         transform: rotate(90deg);
         font-weight: 300;
-        font-size: 0.9rem;
+        font-size: xx-large;
     }
     
 
