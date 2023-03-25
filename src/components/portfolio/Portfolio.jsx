@@ -51,16 +51,6 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
             <div className="portfolio__item-image">
-              <img src={amber} alt=""/>
-            </div>
-            <h3>AMBER: Faculty Evaluation System</h3>
-            <h5>Capstone Project and Research Technopreneurship</h5>
-           <div className="portfolio__item-cta">
-            <a href="https://github.com/marviquint/AMBER-Faculty-Evaluation-System" className="btn"><GoLinkExternal/> Github</a>
-           </div>
-        </article>
-        <article className="portfolio__item">
-            <div className="portfolio__item-image">
               <img src={instaMag} alt=""/>
             </div>
             <h3>InstaMag: Photo Magazine Social Media Site</h3>

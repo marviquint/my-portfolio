@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marviquint-portfolio/static/css/main.77a08da0.css",
-    "main.js": "/marviquint-portfolio/static/js/main.a4882c3a.js",
+    "main.js": "/marviquint-portfolio/static/js/main.f4e1cb61.js",
     "static/media/CV.pdf": "/marviquint-portfolio/static/media/CV.d6db7640e9dfda87ea9b.pdf",
     "static/media/StudentManagementSystem.pdf": "/marviquint-portfolio/static/media/StudentManagementSystem.edbefc49a5ddd17dc7bd.pdf",
     "static/media/Public-Library-Data-and-Information-Management-System.pdf": "/marviquint-portfolio/static/media/Public-Library-Data-and-Information-Management-System.af812bb0fb5345931008.pdf",
@@ -13,13 +13,13 @@
     "static/media/my-img.png": "/marviquint-portfolio/static/media/my-img.a45872844a4f117fe7d5.png",
     "static/media/amber.png": "/marviquint-portfolio/static/media/amber.bfc323b359925a0296e3.png",
     "static/media/library.jpg": "/marviquint-portfolio/static/media/library.e3fa5e25aa7f31fd8b3a.jpg",
-    "static/media/nexusgpt.png": "/marviquint-portfolio/static/media/nexusgpt.8fb4c5ef6f0006ad8d09.png",
+    "static/media/nexusgpt.png": "/marviquint-portfolio/static/media/nexusgpt.e1efd8fffe48b2da844b.png",
     "index.html": "/marviquint-portfolio/index.html",
     "main.77a08da0.css.map": "/marviquint-portfolio/static/css/main.77a08da0.css.map",
-    "main.a4882c3a.js.map": "/marviquint-portfolio/static/js/main.a4882c3a.js.map"
+    "main.f4e1cb61.js.map": "/marviquint-portfolio/static/js/main.f4e1cb61.js.map"
   },
   "entrypoints": [
     "static/css/main.77a08da0.css",
-    "static/js/main.a4882c3a.js"
+    "static/js/main.f4e1cb61.js"
   ]
 }
