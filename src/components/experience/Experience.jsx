@@ -3,9 +3,10 @@ import './experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
 import {AiFillHtml5} from 'react-icons/ai'
 import {DiCss3, DiMsqlServer, DiJava, DiDotnet} from 'react-icons/di'
-import {TbBrandJavascript, } from 'react-icons/tb'
+import {TbBrandJavascript} from 'react-icons/tb'
 import {FaBootstrap, FaReact, FaPhp, FaNodeJs} from 'react-icons/fa'
-import {SiMysql, SiExpress, SiMongodb, SiPython} from 'react-icons/si'
+import {SiMysql, SiExpress, SiMongodb, SiPython, SiDjango} from 'react-icons/si'
+
 
 const Experience = () => {
   return (
@@ -104,6 +105,13 @@ const Experience = () => {
               <SiMongodb className='experience__details-icon'/>
               <div>
               <h4>MongoDB</h4>
+              <small className="text-light">Basics</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <SiDjango className='experience__details-icon'/>
+              <div>
+              <h4>Django</h4>
               <small className="text-light">Basics</small>
               </div>
             </article>
